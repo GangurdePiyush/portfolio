@@ -63,5 +63,17 @@ CampusConnect – Responsive College Website Solution Mar 2025 – Jun 2025
 - Developed ML-based fraud detection system with quantum logic at NITK Hackathon; achieved 90%+ accuracy.
 
 
+## new project
+1. TalkMateAI
+Voice-controlled AI assistant with real-time speech recognition, AI responses, and an animated avatar with lip-sync.
+link: https://github.com/GangurdePiyush/AI_Teacher
 
+2. EcoTrack: Unified Carbon Footprint Solution
+Streamlit App Expo MIT License
 
+EcoTrack is a dual-platform sustainability solution designed to monitor, analyze, and reduce your carbon footprint. It features a powerful Streamlit Web Dashboard for deep analytics and a sleek React Native Mobile App (via Expo) for on-the-go tracking.
+
+Link: https://github.com/GangurdePiyush/footprint
+
+3. 
+Link: https://github.com/GangurdePiyush/portfolio
